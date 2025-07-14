@@ -1,0 +1,85 @@
+#header {
+    text-align: center;
+    font-family: Lobster;
+    font-size: 40px;
+    color: white;
+    background-color: #b5a9a9;
+    padding: 30px;
+    border-radius: 10px;
+
+}
+
+
+
+.main {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bold;
+    max-width: auto;
+    margin: 0 auto;
+    padding:20px;
+    text-align: center;
+
+}
+
+body{
+    color: gray;
+    /* background: linear-gradient(to top, rgb(42, 35, 35), white); */
+    background-color: white;
+    
+    
+
+    
+}
+.all_sections{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    text-align:center;
+
+
+}
+
+
+.image_container{
+    text-align: center;
+    display: inline-block;
+    background-color: rgb(226, 226, 226);
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+
+#switzerland_image, #florida_image{
+    padding-top: 30px;
+    width: 275px;
+    height: 366px;
+    border-radius: 20px;
+     
+}
+#utah_image, #peru_image{
+    padding-top: 30px;
+    width: 275px;
+    height: 366px;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-radius: 20px;
+
+}
+
+
+.image img{
+    transition: transform 0.5s ease-in-out 0s; /* added so there is smooth transition when moving away from the image */
+
+}
+
+.image img:hover {
+    transform: scale(1.1); /* 1.0 is og size of image so here we are making it 10% bigger */
+    transition: transform 0.5s ease-in-out 0s;
+
+
+}
+footer{
+    color: rgb(101, 98, 98);
+}
