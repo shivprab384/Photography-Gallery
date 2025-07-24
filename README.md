@@ -2,7 +2,7 @@ This project is a personal photo gallery that showcases four unique locations Iâ
 
 
 
-My goal with this project was to create a simple, meaningful way to document and share my experiences and hopefully inspire others to explore and capture the world around them too. I wanted to put my HTML, CSS and Javascript skills to the test by combining it with of my passions
+My goal with this project was to create a simple, meaningful way to document and share my experiences and hopefully inspire others to explore and capture the world around them too. I wanted to put my HTML, CSS and Javascript skills to the test by combining it with some of my interests
 
 
 Whether you're a fellow traveler, a photography enthusiast, or simply someone curious about new places, I hope this project brings value and sparks your curiosity.
