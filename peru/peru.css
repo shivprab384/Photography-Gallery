@@ -1,6 +1,7 @@
+
 h1 {
   margin: 0;
-  background-color: lightpink;
+  background-color: lightseagreen;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -27,6 +28,7 @@ button {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 10px;
   padding: 10px;
+  font-family: Winky Rough
 }
 
 
@@ -74,7 +76,7 @@ button {
 
 /* Back face (description) */
 .back-card {
-  background-color: lightpink;
+  background-color: lightseagreen;
   color: white;
   display: flex;
   justify-content: center;
@@ -85,6 +87,9 @@ button {
 }
 
 
+
+
 /*.inner-card:hover {
   transform: rotateY(180deg);
 } */
+
