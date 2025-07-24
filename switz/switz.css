@@ -1,7 +1,7 @@
 
 h1 {
   margin: 0;
-  background-color: lightpink;
+  background-color: lightslategray;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -28,6 +28,7 @@ button {
   grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
   gap: 10px;
   padding: 10px;
+  font-family: winky rough
 }
 
 
@@ -75,7 +76,7 @@ button {
 
 /* Back face (description) */
 .back-card {
-  background-color: lightpink;
+  background-color: lightslategray;
   color: white;
   display: flex;
   justify-content: center;
@@ -89,3 +90,42 @@ button {
 /*.inner-card:hover {
   transform: rotateY(180deg);
 } */
+
+
+
+
+
+.text-info {
+    z-index: 100;
+    position: absolute;
+    bottom: 85px; 
+    left: 50%;
+    transform: translateX(-50%);
+    color: white;
+    background-color: rgba(0, 0, 0, 0.6); 
+    padding: 10px 55px;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 20px;
+    width: fit-content;
+    white-space: nowrap;
+    cursor:pointer;
+    opacity: 0;
+    transition: opacity 0.5s ease;
+    
+    
+
+}
+.text-info a {
+    text-decoration: none;
+    color: white;
+
+}
+ .text-info:hover{ /* select any sibling after the hovered .image div*/
+  opacity: 1;
+}
+
+.image:hover ~ .text-info{
+    opacity: 1;
+
+}
