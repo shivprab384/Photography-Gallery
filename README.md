@@ -6,5 +6,6 @@ Whether you're a fellow traveler, a photography enthusiast, or simply someone cu
 
 When you open the website, click on each location to see it through my eyes. Some photos have a short description on the back of the image, which you can view by clicking each photo card!
 
+Click the link below to explore:
 
 https://shivprab384.github.io/Photography-Gallery/main/index.html
