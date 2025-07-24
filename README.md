@@ -8,7 +8,7 @@ My goal with this project was to create a simple, meaningful way to document and
 Whether you're a fellow traveler, a photography enthusiast, or simply someone curious about new places, I hope this project brings value and sparks your curiosity.
 
 
-When you open the website, click on each location to see it through my eyes. Some photos have a short description on the back of the image, which you can view by clicking each photo card!
+When you open the website, click on each location to see it through my eyes. Some photos in each individual gallery have a short description on the back of the image, which you can view by clicking each photo card!
 
 
 
